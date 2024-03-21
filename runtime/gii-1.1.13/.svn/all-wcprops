@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rent/!svn/ver/3/trunk/protected/backend/runtime/gii-1.1.13
+END
+ModelCode.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/rent/!svn/ver/3/trunk/protected/backend/runtime/gii-1.1.13/ModelCode.php
+END
+ControllerCode.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/rent/!svn/ver/3/trunk/protected/backend/runtime/gii-1.1.13/ControllerCode.php
+END
+CrudCode.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/rent/!svn/ver/3/trunk/protected/backend/runtime/gii-1.1.13/CrudCode.php
+END
